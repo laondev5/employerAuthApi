@@ -1,0 +1,6 @@
+20230417	16:17:54	61640335-5b0c-4acd-8c99-349630c679d7	Error : Not allowed by corse
+20230417	16:17:54	57e2bf43-2c25-423a-8712-adec7140a4c6	Error : Not allowed by corse
+20230418	07:22:15	709cb4e4-f979-415e-8607-32a994385df7	Error : ENOENT: no such file or directory, stat 'C:\Users\AmDeLaon\Desktop\workspace\node\tut-5\nananu\routes\views\index.html'
+20230418	07:22:25	819976ff-012d-42cd-b716-b05a175cc05c	Error : ENOENT: no such file or directory, stat 'C:\Users\AmDeLaon\Desktop\workspace\node\tut-5\nananu\routes\views\index.html'
+20230421	06:26:01	4e96eb29-f795-4e72-9ee3-0cdc8be7462c	SyntaxError : Unexpected token } in JSON at position 40
+20230426	18:27:26	57a18229-a271-4d04-9ad3-d3d1104f292b	SyntaxError : Unexpected token e in JSON at position 0
